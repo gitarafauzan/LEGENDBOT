@@ -1,18 +1,18 @@
 {
-  "name": "Lêɠêɳ̃dẞø†",
-  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
+  "name": "Tara user bot",
+  "description": "The best user bot tara. Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://github.com/gitarafauzan/tarabot",
   "keywords": [
     "telegram",
     "userbot",
     "plugin",
-    "legendbot",
+    "Tara user bot",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "repository": "https://github.com/gitarafauzan/tarabot/",
+  "website": "https://github.com/gitarafauzan/tarabot/",
+  "success_url": "https://t.me/youareeebitch",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -20,7 +20,7 @@
     },
     "ALIVE_NAME": {
       "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "Lêɠêɳ̃dẞøY",
+      "value": "Tara user bot",
       "required": false
     },
     "ALIVE_MSG": {
@@ -140,7 +140,7 @@
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
       "value": ""
     }, 
-    "LEGEND_STRING": {
+    "TARA_STRING": {
       "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
       "value": ""
     },
